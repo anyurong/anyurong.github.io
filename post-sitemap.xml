@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>oncelady.xyz/abc.html</loc>
+        <lastmod>2020-09-01T11:25:37.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>oncelady.xyz/helloworld.html</loc>
         <lastmod>2020-07-18T04:32:06.000Z</lastmod>
         <changefreq>weekly</changefreq>

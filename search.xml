@@ -126,4 +126,9 @@
         <tag>博客建站</tag>
       </tags>
   </entry>
+  <entry>
+    <title>abc</title>
+    <url>/abc.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
 </search>
