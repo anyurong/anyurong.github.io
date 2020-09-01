@@ -131,4 +131,10 @@
     <url>/abc.html</url>
     <content><![CDATA[]]></content>
   </entry>
+  <entry>
+    <title>为什么不能写中文</title>
+    <url>/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%86%99%E4%B8%AD%E5%8D%ABi%C2%BC%E6%96%87.html</url>
+    <content><![CDATA[<p>再试试怎么上传文章，感觉好烦躁！</p>
+]]></content>
+  </entry>
 </search>
