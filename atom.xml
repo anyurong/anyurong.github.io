@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>我的博客</title>
+  <title>OnceLady</title>
   
-  <subtitle>又一个GoodHexo小站</subtitle>
+  <subtitle>班城小女巫</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="oncelady.xyz/"/>
@@ -10,7 +10,7 @@
   <id>oncelady.xyz/</id>
   
   <author>
-    <name>凹凸曼达人</name>
+    <name>喜乐</name>
     
   </author>
   
@@ -35,13 +35,17 @@
   </entry>
   
   <entry>
-    <title>abc</title>
+    <title>用程序写个blog也太难了吧！</title>
     <link href="oncelady.xyz/abc.html"/>
     <id>oncelady.xyz/abc.html</id>
     <published>2020-09-01T11:25:37.000Z</published>
     <updated>2020-09-01T11:25:37.000Z</updated>
     
+    <content type="html"><![CDATA[<p>文章内容就从这里开始了吗？<br>我先大概写一下看看</p>]]></content>
+    
     <summary type="html">
+    
+      我就是随便试试
     
     </summary>
     

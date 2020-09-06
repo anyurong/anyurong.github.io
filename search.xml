@@ -127,9 +127,10 @@
       </tags>
   </entry>
   <entry>
-    <title>abc</title>
+    <title>用程序写个blog也太难了吧！</title>
     <url>/abc.html</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>文章内容就从这里开始了吗？<br>我先大概写一下看看</p>
+]]></content>
   </entry>
   <entry>
     <title>为什么不能写中文</title>
