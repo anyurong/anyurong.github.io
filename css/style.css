@@ -1,8 +1,8 @@
 @charset "UTF-8";
 @font-face {
   font-weight: normal;
-  font-family: "Long Cang";
-  src: local("Long Cang"), url("../../lib/Long_Cang/LongCang-Regular.ttf") format("truetype"); }
+  font-family: "Long_Cang";
+  src: local("Long_Cang"), url("../../lib/Long_Cang/LongCang-Regular.ttf") format("truetype"); }
 
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 /**

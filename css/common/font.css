@@ -1,4 +1,4 @@
 @font-face {
   font-weight: normal;
-  font-family: "Long Cang";
-  src: local("Long Cang"), url("../../lib/Long_Cang/LongCang-Regular.ttf") format("truetype"); }
+  font-family: "Long_Cang";
+  src: local("Long_Cang"), url("../../lib/Long_Cang/LongCang-Regular.ttf") format("truetype"); }
